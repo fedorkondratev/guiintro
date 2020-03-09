@@ -16,6 +16,7 @@ public class Taschenrechner {
 	 * 
 	 * @param args
 	 */
+	
 	public static void main(String[] args) {
 		Display display = Display.getDefault();
 		Shell shell = new Shell();
